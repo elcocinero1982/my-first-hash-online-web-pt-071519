@@ -22,7 +22,7 @@ def retrieval
                   "oil paintings" => 3
                  }
                  
-shipping_manifest[]
+shipping_manifest[ "whale bone corsets", ]
   # Look up the value of the "oil paintings" key in the shipping_manifest hash below
 
 end
